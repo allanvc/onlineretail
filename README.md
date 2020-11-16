@@ -33,6 +33,6 @@ pp. 197-208, 2012 (Published online before print: 27 August 2012. doi: 10.1057/d
 
 ### Source
 
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail/)
 
 
