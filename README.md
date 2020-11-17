@@ -1,7 +1,7 @@
 # onlineretail2
 
-[![Travis-CI Build Status](https://travis-ci.com/allanvc/onlineretail2.svg?branch=master)](https://travis-ci.com/allanvc/onlineretail2)
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/onlineretail2)](https://cran.r-project.org/package=onlineretail2)
+[![Travis-CI Build Status](https://travis-ci.com/allanvc/onlineretail.svg?branch=master)](https://travis-ci.com/allanvc/onlineretail)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/onlineretail)](https://cran.r-project.org/package=onlineretail)
 
 Transactions occurring for a UK-based and registered, non-store online retail 
 between 01/12/2010 and 09/12/2011. This dataset is included in this package
@@ -33,6 +33,6 @@ pp. 197-208, 2012 (Published online before print: 27 August 2012. doi: 10.1057/d
 
 ### Source
 
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail/)
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
 
