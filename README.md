@@ -1,6 +1,6 @@
 # onlineretail2
 
-[![Travis-CI Build Status](https://travis-ci.com/allanvc/onlineretail.svg?branch=master)](https://travis-ci.com/allanvc/onlineretail)
+[![Travis-CI Build Status](https://travis-ci.org/allanvc/onlineretail.svg?branch=master)](https://travis-ci.com/allanvc/onlineretail)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/onlineretail)](https://cran.r-project.org/package=onlineretail)
 
 Transactions occurring for a UK-based and registered, non-store online retail 
@@ -28,7 +28,9 @@ uniquely assigned to each customer.
 Daqing Chen, Sai Liang Sain, and Kun Guo (2012), Data mining for the online retail 
 industry: A case study of RFM model-based customer segmentation using data mining, 
 Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3, 
-pp. 197-208, 2012 (Published online before print: 27 August 2012. doi: 10.1057/dbm.2012.17).
+pp. 197-208, 2012 (Published online before print: 27 August 2012. doi:10.1057/dbm.2012.17).
+
+[Dr. Dqing's ResearchGate page](https://www.researchgate.net/profile/Daqing_Chen)
 
 
 ### Source

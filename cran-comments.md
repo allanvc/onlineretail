@@ -1,4 +1,4 @@
-**onlineretail - First CRAN submission**
+**onlineretail - v0.1.1**
 
 ## Test environments
 * local Ubuntu 20.04, R 4.0.3
@@ -17,5 +17,4 @@
       data   5.6Mb
 
 > checking CRAN income feasibility: 
-    - New submission
     - mis-spelled words in description: Daqing (it's a name)
