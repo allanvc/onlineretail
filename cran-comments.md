@@ -17,4 +17,6 @@
       data   5.6Mb
 
 > checking CRAN income feasibility: 
-    - mis-spelled words in description: Daqing (it's a name)
+  Possibly mis-spelled words in DESCRIPTION:
+      al (12:56)
+      et (12:52) (for Chen et. al., 2012)

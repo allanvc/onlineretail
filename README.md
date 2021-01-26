@@ -1,4 +1,4 @@
-# onlineretail2
+# onlineretail
 
 [![Travis-CI Build Status](https://travis-ci.org/allanvc/onlineretail.svg?branch=master)](https://travis-ci.com/allanvc/onlineretail)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/onlineretail)](https://cran.r-project.org/package=onlineretail)
