@@ -30,7 +30,7 @@ industry: A case study of RFM model-based customer segmentation using data minin
 Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3, 
 pp. 197-208, 2012 (Published online before print: 27 August 2012. doi:10.1057/dbm.2012.17).
 
-[Dr. Dqing's ResearchGate page](https://www.researchgate.net/profile/Daqing_Chen)
+[Dr. Dqing's ResearchGate page](https://www.researchgate.net/profile/Daqing-Chen)
 
 
 ### Source
